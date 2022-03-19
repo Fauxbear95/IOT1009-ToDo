@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add">+</string>
+    <string name="defaultEntry">Add something to your to do list!</string>
+</resources>
